@@ -68,11 +68,12 @@ OSI Model, TCP/IP Model, HTTP, DNS, Sockets, etc.
 3. Brainstellar
 4. Puzzledquant - although has mostly repeated problems from other sources, still have some new problems, and also really nice to learn about new approaches through comments sometimes. This sheet contains all problems(even the locked ones) - [Link](https://docs.google.com/spreadsheets/d/10oZ7wG2qD2xRxd6ksAYYDCHBDZu8DTTr/edit?usp=sharing&ouid=105948000423544987246&rtpof=true&sd=true).
 5. Market making - [1](https://www.tradermath.org/knowledge-base/make-me-a-market-guide), [2](https://github.com/mikinty/Trading-Interview-Questions/blob/master/chapters%2Fmarket.md), [3](https://www.janestreet.com/probability-markets/)
+
 Optional - 
-6. quantguide.io
-7. Gurmeet's Puzzles
-8. Dice Problems: https://www.karlin.mff.cuni.cz/~nagy/NMSA202/dice1.pdf
-9. https://www.math.lsu.edu/~smolinsk/Quant_Interview_Prep.pdf 
+- quantguide.io
+- Gurmeet's Puzzles
+- Dice Problems: https://www.karlin.mff.cuni.cz/~nagy/NMSA202/dice1.pdf
+- https://www.math.lsu.edu/~smolinsk/Quant_Interview_Prep.pdf 
 
 **General Recommendations**: 
 1. While practicing, sort problems into some categories into your mind and try to make a generic framework. After a point, every problem would start to look like some variant of a problem you've already solved.
