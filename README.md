@@ -16,7 +16,7 @@
 #### Important topics in C++
 1. OOPs - Inheritance, Polymorphism, Encapsulation, Abstraction, Constructors, Destructors, Rule of 5, Virtual functions, Copy semantics, etc.
 2. Templates
-3. STL - Vectors, Maps, Sets, Algorithms, etc.
+3. STL - Vectors, Maps, Sets, etc.
 4. Smart Pointers
 5. RAII
 6. Move Semantics
@@ -52,7 +52,7 @@ OSI Model, TCP/IP Model, HTTP, DNS, Sockets, etc.
 1. Optiver - SWE OA round had some fast mcq type questions on algos, and very basic CS fundamentals - OS, DBMS, Networking. Apart from that, there was one coding problem which wasn't very tough, just had a very long story and had to think what data structure is best to use. GD round was quant like only, no swe questions.
 2. IMC - OA round had 2/3 problems, very implementation based. They shortlist lot of people for GD round. In GD round, they give a code snippet and ask you to find bugs, optimize it etc. The code was in C++, related to processing of orders in trading, and used knowledge of concurrency - threads etc. Also knowledge of algos used in Scheduling in Operating system would have helped.
 3. Graviton - 2-3 1500-1900 type CF questions were given in pen-paper format.
-4. Atlas - Pretty hard 4 cp questions in the OA Round. In interview, was asked to implement some data structure in C++, move semantics, Networking(DHCP, congestion control etc), garbage collector.
+4. Atlas - Pretty hard 4 cp questions in the OA Round. 2nd round was pen paper test(quant and swe mixed), swe part again had one easy, one quite hard CP problem. Also there was one question related to performance difference because of row major order, column major order - spatial locality. In interview, was asked to implement some data structure in C++, move semantics, Networking(DHCP, congestion control etc), garbage collector.
 5. Alphagrep - OA had easy-medium problems, ig interview round was based a bit on C++ knowledge and some DSA.
 6. Jump - OA has Implementation problems. For interview, should be pretty thorough with CS fundamentals and C++.
 7. Quantbox - Had lot of C++, CS fundamentals knowledge problems in OA, but everyone pretty much everyone gpted them.
